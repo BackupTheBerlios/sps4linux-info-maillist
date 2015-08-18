@@ -1,0 +1,29 @@
+From MAILER-DAEMON at av18.mail.completel.net  Sun Dec  5 00:33:58 2010
+From: MAILER-DAEMON at av18.mail.completel.net (Mail Delivery System)
+Date: Sun,  5 Dec 2010 00:33:58 +0100 (CET)
+Subject: [Sps4linux-info] Undelivered Mail Returned to Sender
+Message-ID: <20101204233358.49AD1507AA@av18.mail.completel.net>
+
+This is the mail system at host av18.mail.completel.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<thisisjusttestletter at raymond-poulain.fr>: host 83.145.84.213[83.145.84.213]
+    said: 550 <thisisjusttestletter at raymond-poulain.fr> recipient rejected (in
+    reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: <thisisjusttestletter at raymond-poulain.fr>
+Subject: International Real Estate Consulting
+Date: Sun,  5 Dec 2010 00:33:51 +0100 (CET)
+Size: 1620
+URL: <https://lists.berlios.de/pipermail/sps4linux-info/attachments/20101205/1b675efa/attachment.mht>
+
